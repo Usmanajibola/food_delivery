@@ -29,7 +29,7 @@ SECRET_KEY = '%uxym$9dwxt7u3-2m!6_+3$6e%^o3jwb%x06sycf55%0)!jakw'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ['0.0.0.0', "usman-food-delivery.herokuapp.com"]
 
 
 AUTHENTICATION_BACKENDS = [
